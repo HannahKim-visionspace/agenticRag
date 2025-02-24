@@ -1,0 +1,75 @@
+nohup: ignoring input
+USER_AGENT environment variable not set, consider setting it to identify your requests.
+/root/anaconda3/lib/python3.12/site-packages/langsmith/client.py:241: LangSmithMissingAPIKeyWarning: API key must be provided when using hosted LangSmith API
+  warnings.warn(
+ * Serving Flask app 'rag'
+ * Debug mode: on
+USER_AGENT environment variable not set, consider setting it to identify your requests.
+/root/anaconda3/lib/python3.12/site-packages/langsmith/client.py:241: LangSmithMissingAPIKeyWarning: API key must be provided when using hosted LangSmith API
+  warnings.warn(
+USER_AGENT environment variable not set, consider setting it to identify your requests.
+/root/anaconda3/lib/python3.12/site-packages/langsmith/client.py:241: LangSmithMissingAPIKeyWarning: API key must be provided when using hosted LangSmith API
+  warnings.warn(
+4:26,926 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.26.209.61:8080USER_AGENT environment variable not set, consider setting it to identify your requests.
+/root/anaconda3/lib/python3.12/site-packages/langsmith/client.py:241: LangSmithMissingAPIKeyWarning: API key must be provided when using hosted LangSmith API
+  warnings.warn(
+25-02-19 18:34:27,558 - INFO - 웹 문서 로딩 시작...
+2025-02-19 18:34:28,103 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-19 18:34:39,480 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-02-19 18:34:39,737 - INFO - 벡터스토어 생성 완료.
+2025-02-19 18:34:40,291 - INFO - Flask 서버 시작
+ * Debugger is active!
+2025-02-19 18:34:40,296 - WARNING -  * Debugger is active!
+ * Debugger PIN: 140-690-811
+2025-02-19 18:34:40,296 - INFO -  * Debugger PIN: 140-690-811
+ * Detected change in '/root/agenticRag/rag.py', reloading
+ * Detected change in '/root/agenticRag/rag.py', reloading
+2025-02-19 18:39:23,165 - INFO -  * Detected change in '/root/agenticRag/rag.py', reloading
+2025-02-19 18:39:23,165 - INFO -  * Detected change in '/root/agenticRag/rag.py', reloading
+ * Detected change in '/root/agenticRag/rag.py', reloading
+ * Detected change in '/root/agenticRag/rag.py', reloading
+2025-02-19 18:39:23,166 - INFO -  * Detected change in '/root/agenticRag/rag.py', reloading
+2025-02-19 18:39:23,166 - INFO -  * Detected change in '/root/agenticRag/rag.py', reloading
+ * Detected change in '/root/agenticRag/rag.py', reloading
+2025-02-19 18:39:23,167 - INFO -  * Detected change in '/root/agenticRag/rag.py', reloading
+ * Detected change in '/root/agenticRag/rag.py', reloading
+2025-02-19 18:39:23,167 - INFO -  * Detected change in '/root/agenticRag/rag.py', reloading
+ * Detected change in '/root/agenticRag/rag.py', reloading
+ * Detected change in '/root/agenticRag/rag.py', reloading
+2025-02-19 18:39:23,171 - INFO -  * Detected change in '/root/agenticRag/rag.py', reloading
+2025-02-19 18:39:23,171 - INFO -  * Detected change in '/root/agenticRag/rag.py', reloading
+ * Detected change in '/root/agenticRag/rag.py', reloading
+2025-02-19 18:39:23,172 - INFO -  * Detected change in '/root/agenticRag/rag.py', reloading
+ * Detected change in '/root/agenticRag/rag.py', reloading
+ * Detected change in '/root/agenticRag/rag.py', reloading
+2025-02-19 18:39:23,172 - INFO -  * Detected change in '/root/agenticRag/rag.py', reloading
+2025-02-19 18:39:23,172 - INFO -  * Detected change in '/root/agenticRag/rag.py', reloading
+ * Detected change in '/root/agenticRag/rag.py', reloading
+2025-02-19 18:39:23,172 - INFO -  * Detected change in '/root/agenticRag/rag.py', reloading
+ * Restarting with watchdog (inotify)
+2025-02-19 18:39:23,856 - INFO -  * Restarting with watchdog (inotify)
+ * Restarting with watchdog (inotify)
+2025-02-19 18:39:24,200 - INFO -  * Restarting with watchdog (inotify)
+2025-02-19 18:39:24,897 - INFO - Flask RAG 서버 시작!
+2025-02-19 18:39:24,897 - INFO - Flask RAG 서버 시작!
+2025-02-19 18:39:24,897 - INFO - 웹 문서 로딩 시작...
+2025-02-19 18:39:24,897 - INFO - 웹 문서 로딩 시작...
+2025-02-19 18:39:25,513 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-19 18:39:25,513 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-19 18:39:47,943 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-02-19 18:39:47,996 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-02-19 18:39:48,203 - INFO - 벡터스토어 생성 완료.
+2025-02-19 18:39:48,251 - INFO - 벡터스토어 생성 완료.
+2025-02-19 18:39:48,784 - INFO - Flask 서버 시작
+2025-02-19 18:39:48,786 - INFO - Flask 서버 시작
+ * Debugger is active!
+2025-02-19 18:39:48,796 - WARNING -  * Debugger is active!
+ * Debugger is active!
+2025-02-19 18:39:48,796 - WARNING -  * Debugger is active!
+ * Debugger PIN: 140-690-811
+ * Debugger PIN: 140-690-811
+2025-02-19 18:39:48,797 - INFO -  * Debugger PIN: 140-690-811
+2025-02-19 18:39:48,797 - INFO -  * Debugger PIN: 140-690-811
